@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Moneta Todo App"
 date:   2019-12-11 19:20:36 +0300
 categories: hobby projects
 ---
