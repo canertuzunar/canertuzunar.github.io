@@ -1,1 +1,1 @@
-{"componentChunkName":"component---src-pages-index-js","path":"/","result":{"pageContext":{}},"staticQueryHashes":["1132682437","3649515864","63159454"]}
+{"componentChunkName":"component---src-pages-index-jsx","path":"/","result":{"data":{"allMarkdownRemark":{"edges":[{"node":{"id":"22d4b021-b994-50af-952d-996f569bf936","fields":{"slug":"/how-to-use-gatsby/"},"frontmatter":{"title":"How to use Gatsby JS","date":"2021-01-23"}}}]}},"pageContext":{}},"staticQueryHashes":["4222139899"]}
