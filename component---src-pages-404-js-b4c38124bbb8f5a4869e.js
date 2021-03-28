@@ -1,0 +1,2 @@
+(self.webpackChunkpersonal_website=self.webpackChunkpersonal_website||[]).push([[883],{9616:function(e,n,t){"use strict";t.r(n);var s=t(7294);t(5444);n.default=function(){return s.createElement("main",null)}}}]);
+//# sourceMappingURL=component---src-pages-404-js-b4c38124bbb8f5a4869e.js.map
